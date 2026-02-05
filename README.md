@@ -1,7 +1,7 @@
 # IMAGE-TRANSFORMATIONS
 ```
-## NAME: Mukesh R
-## REG NO:212224240098
+NAME: Mukesh R
+REG NO:212224240098
 ```
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.

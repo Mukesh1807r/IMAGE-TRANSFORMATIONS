@@ -114,8 +114,6 @@ plt.title("Cropped Image")
 plt.axis('off')
 plt.show()
 
-
-
 ``````
 ## Output:
 ## ORIGINAL IMAGE
